@@ -3,7 +3,7 @@ layout: cv
 title: Alexander Letourneau's CV
 ---
 # Alexander Letourneau
-Physicist, Mathematician, Cambridge professor.
+Software Engineer, Tinkerer, Creator
 
 <div id="webaddress">
 <a href="alex.letourneau@gmail.com">alex.letourneau@gmail.com</a>
