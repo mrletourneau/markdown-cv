@@ -19,11 +19,6 @@ Software Development Engineer @ AWS Proton
 Java, Kotlin, AWS & Linux
 
 
-### Relavent Interests
-
-Graph Databases, Digital Signal Processing, Sound Design
-
-
 ## Education
 
 `2008 - 2012`
