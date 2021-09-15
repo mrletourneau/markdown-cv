@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alexander Letourneau's CV
 ---
-# Isaac Newton
+# Alexander Letourneau
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="alex.letourneau@gmail.com">alex.letourneau@gmail.com</a>
 </div>
 
 
