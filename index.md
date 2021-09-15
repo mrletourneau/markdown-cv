@@ -13,79 +13,54 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Software Development Engineer @ AWS Proton
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Java, Kotlin, AWS & Linux
 
 
-### Research interests
+### Relavent Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Graph Databases, Digital Signal Processing, Sound Design
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2008 - 2012`
+__SUNY New Paltz__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Bachelor's Program in Computer Science
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2020 - Present`
+__AWS Proton__, Jersey City, NJ
 
-- Warden
-- Minted coins
+- Software Development Engineer II
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Backend engineer developing AWS Proton
 
+
+`2019 - 2020`
+__Amazon Athena__, Manhattan, NY
+
+- Software Development Engineer II
+
+Backend engineer working on Athena's distributed query engine
+
+
+`2013 - 2018`
+__SAMsix/Arcos LLC__, New Paltz, NY
+
+- Senior Software Engineer
+
+Full stack engineer designing and implementing disaster recovery software for utility companies
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2021 -->
 
 
