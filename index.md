@@ -14,7 +14,7 @@ Software Engineer, Tinkerer, Creator
 
 Software Development Engineer @ AWS Proton
 
-### Specialized in
+## Specialized in
 
 Java, Kotlin, AWS & Linux
 
